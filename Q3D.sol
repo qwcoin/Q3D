@@ -1,5 +1,5 @@
 pragma solidity ^0.4.24;
-contract Coin {
+contract Q3D {
     address public owner;
     mapping (address => uint) public balances;
     address[] public users;
