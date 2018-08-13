@@ -1,3 +1,3 @@
-# QWCandy
+# Q3D
 
-空投测试
+类似fomo3D的博彩
